@@ -1,0 +1,10 @@
+venv/
+__pycache__
+*.pyc
+asl_alphabet_train/
+asl_alphabet_train.zip
+*.zip
+*.tar.gz
+ASL_Model/
+*.pkl
+*.h5
